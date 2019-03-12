@@ -1,0 +1,31 @@
+div, article {
+  border: 1px black solid;
+}
+
+#a {
+  background: #a6f900;
+}
+#b {
+  background: #19629b;
+}
+#c {
+  background: #7b9f35;
+}
+#d {
+  background: #882d61;
+}
+#e {
+  background: #ff9200;
+}
+#f {
+  background: #c11476;
+}
+#g {
+  background: #9ee117;
+}
+#h {
+  background: #0983e0;
+}
+#i {
+  background: #ee0087;
+}
