@@ -6,6 +6,23 @@ div, article {
   height: 75px;
   line-height: 75px;
 }
+.banner {
+  height: 150px;
+  line-height: 150px;
+}
+.top-article {
+  height: 125px;
+  line-height: 125px;
+}
+.mid-article {
+  width: 240px;
+  height: 250px;
+  line-height: 250px;
+}
+.tail-article {
+  height: 80px;
+  line-height: 80px;
+}
 
 #a {
   background: #a6f900;
@@ -34,3 +51,4 @@ div, article {
 #i {
   background: #ee0087;
 }
+
