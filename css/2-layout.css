@@ -1,8 +1,6 @@
-nav, main, footer {
+.container {
   width: 480px;
   margin: 0 auto;
+  position: relative;
 }
 
-nav, main, footer > * {
-  float: left;
-}
