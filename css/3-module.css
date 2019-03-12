@@ -52,3 +52,57 @@ div, article {
   background: #ee0087;
 }
 
+@media (min-width: 768px) {
+  .nav-links {
+    height: 100px;
+    line-height: 100px;
+  }
+  .banner {
+    width: 200px;
+    height: 600px;
+    line-height: 600px;
+  }
+  .top-article {
+    width: 380px;
+    height: 200px;
+    line-height: 200px;
+  }
+  .mid-article {
+    width: 190px;
+    height: 250px;
+    line-height: 250px;
+  }
+  .tail-article {
+    width: 760px;
+    height: 150px;
+    line-height: 150px;
+  }
+
+  #a {
+    background: #ff0000;
+  }
+  #b {
+    background: #f17b19;
+  }
+  #c {
+    background: #00dddd;
+  }
+  #d {
+    background: #ff7400;
+  }
+  #e {
+    background: #f11919;
+  }
+  #f {
+    background: #634c38;
+  }
+  #g {
+    background: #2d882d;
+  }
+  #h {
+    background: #0f9090;
+  }
+  #i {
+    background: #aa6c39;
+  }
+}
