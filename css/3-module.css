@@ -3,24 +3,24 @@ div, article {
 }
 
 .nav-links {
-  height: 75px;
+  /* height: 75px; */
   line-height: 75px;
 }
 .banner {
-  height: 150px;
+  /* height: 150px; */
   line-height: 150px;
 }
 .top-article {
-  height: 125px;
+  /* height: 125px; */
   line-height: 125px;
 }
 .mid-article {
-  width: 240px;
-  height: 250px;
+  /* width: 240px;
+  height: 250px; */
   line-height: 250px;
 }
 .tail-article {
-  height: 80px;
+  /* height: 80px; */
   line-height: 80px;
 }
 
@@ -52,7 +52,7 @@ div, article {
   background: #ee0087;
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .nav-links {
     height: 100px;
     line-height: 100px;
@@ -105,4 +105,4 @@ div, article {
   #i {
     background: #aa6c39;
   }
-}
+} */
