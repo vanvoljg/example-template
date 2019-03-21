@@ -52,7 +52,7 @@ div, article {
   background: #ee0087;
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .nav-links {
     height: 100px;
     line-height: 100px;
@@ -105,4 +105,4 @@ div, article {
   #i {
     background: #aa6c39;
   }
-}
+} */
